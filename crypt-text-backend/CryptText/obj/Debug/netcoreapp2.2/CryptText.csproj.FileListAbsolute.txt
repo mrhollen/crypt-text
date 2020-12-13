@@ -1,0 +1,14 @@
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText/bin/Debug/netcoreapp2.2/CryptText.deps.json
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText/bin/Debug/netcoreapp2.2/CryptText.runtimeconfig.json
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText/bin/Debug/netcoreapp2.2/CryptText.runtimeconfig.dev.json
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText/bin/Debug/netcoreapp2.2/CryptText.dll
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText/bin/Debug/netcoreapp2.2/CryptText.pdb
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText/obj/Debug/netcoreapp2.2/CryptText.csprojAssemblyReference.cache
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText/obj/Debug/netcoreapp2.2/CryptText.csproj.CoreCompileInputs.cache
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText/obj/Debug/netcoreapp2.2/CryptText.RazorAssemblyInfo.cache
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText/obj/Debug/netcoreapp2.2/CryptText.RazorAssemblyInfo.cs
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText/obj/Debug/netcoreapp2.2/CryptText.AssemblyInfoInputs.cache
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText/obj/Debug/netcoreapp2.2/CryptText.AssemblyInfo.cs
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText/obj/Debug/netcoreapp2.2/CryptText.RazorTargetAssemblyInfo.cache
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText/obj/Debug/netcoreapp2.2/CryptText.dll
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText/obj/Debug/netcoreapp2.2/CryptText.pdb

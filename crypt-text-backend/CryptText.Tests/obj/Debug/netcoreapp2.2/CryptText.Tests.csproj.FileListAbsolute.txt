@@ -1,0 +1,17 @@
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText.Tests/bin/Debug/netcoreapp2.2/CryptText.Tests.deps.json
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText.Tests/bin/Debug/netcoreapp2.2/CryptText.Tests.runtimeconfig.json
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText.Tests/bin/Debug/netcoreapp2.2/CryptText.Tests.runtimeconfig.dev.json
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText.Tests/bin/Debug/netcoreapp2.2/CryptText.Tests.dll
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText.Tests/bin/Debug/netcoreapp2.2/CryptText.Tests.pdb
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText.Tests/obj/Debug/netcoreapp2.2/CryptText.Tests.csprojAssemblyReference.cache
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText.Tests/obj/Debug/netcoreapp2.2/CryptText.Tests.csproj.CoreCompileInputs.cache
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText.Tests/obj/Debug/netcoreapp2.2/CryptText.Tests.AssemblyInfoInputs.cache
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText.Tests/obj/Debug/netcoreapp2.2/CryptText.Tests.AssemblyInfo.cs
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText.Tests/obj/Debug/netcoreapp2.2/CryptText.Tests.dll
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText.Tests/obj/Debug/netcoreapp2.2/CryptText.Tests.pdb
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText.Tests/bin/Debug/netcoreapp2.2/CryptText.dll
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText.Tests/bin/Debug/netcoreapp2.2/CryptText.pdb
+/home/hollen/Documents/code/personal/crypt-text/crypt-text-backend/CryptText.Tests/obj/Debug/netcoreapp2.2/CryptText.Tests.csproj.CopyComplete
